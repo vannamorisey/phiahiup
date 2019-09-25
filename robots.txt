@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://uacheikoob.tianxu.xin/sitemap.xml
